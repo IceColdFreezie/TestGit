@@ -6,6 +6,6 @@ public class Howdy {
 	
 	public String greet(String name)
 	{
-		return("Hello, " + name);
+		return("Howdy, " + name);
 	}
 }
